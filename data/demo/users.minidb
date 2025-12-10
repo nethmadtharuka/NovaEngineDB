@@ -1,0 +1,14 @@
+# MiniDB Table File v1
+TABLE:users
+COLUMNS:4
+COL:id:INTEGER
+COL:name:STRING
+COL:age:INTEGER
+COL:active:BOOLEAN
+ROWS:5
+ROW:1|Alice|28|true
+ROW:2|Bob|35|true
+ROW:3|Charlie|22|false
+ROW:4|Diana|45|true
+ROW:5|Eve|31|false
+END

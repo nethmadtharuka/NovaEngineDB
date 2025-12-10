@@ -1,0 +1,14 @@
+# MiniDB Table File v1
+TABLE:orders
+COLUMNS:4
+COL:order_id:INTEGER
+COL:user_id:INTEGER
+COL:product:STRING
+COL:amount:INTEGER
+ROWS:5
+ROW:101|1|Laptop|1200
+ROW:102|1|Mouse|25
+ROW:103|2|Keyboard|75
+ROW:104|3|Monitor|350
+ROW:105|4|Headphones|150
+END
